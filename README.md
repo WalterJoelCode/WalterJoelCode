@@ -48,25 +48,6 @@ bases de datos y experiencias digitales.
 ![Dompdf](https://img.shields.io/badge/Dompdf-PDF-DC3545?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
----
-
-## 🧩 Proyectos destacados
-
-### 📦 HoteleríaTec
-Sistema web orientado a automatización de procesos, gestión de información y generación de reportes en el área de restaurante del Tecnológico Nacional.
-
-`Laravel` `Livewire` `MySQL` `Bootstrap`
-
-### 🎮 PseudoQuest
-Plataforma educativa gamificada para aprender pensamiento lógico, algoritmos y pseudocódigo.
-
-`Astro` `JavaScript` `Gamification` `PSeInt`
-
-### 🚀 StockOne
-Sistema web de facturación, administración de contactos, control de créditos y envíos.
-
-`Laravel` `JavaScript` `GitHub Pages`
-
 
 ---
 
