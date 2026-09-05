@@ -45,6 +45,8 @@ bases de datos y experiencias digitales.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Dompdf](https://img.shields.io/badge/Dompdf-PDF-DC3545?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ---
 
@@ -63,21 +65,8 @@ Plataforma educativa gamificada para aprender pensamiento lógico, algoritmos y 
 ### 🚀 StockOne
 Sistema web de facturación, administración de contactos, control de créditos y envíos.
 
-`Astro` `JavaScript` `GitHub Pages`
+`Laravel` `JavaScript` `GitHub Pages`
 
----
-
-## 📊 Estadísticas
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=WalterJoelCode&show_icons=true&theme=github_dark&hide_border=true&locale=es">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterJoelCode&layout=compact&theme=github_dark&hide_border=true">
-
-</p>
 
 ---
 
