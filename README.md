@@ -6,17 +6,17 @@ bases de datos y experiencias digitales.
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-- 💻 Desarrollo de software y aplicaciones web
-- 🗄️ Diseño y administración de bases de datos
-- 🎨 Experiencia en diseño gráfico y UI/UX
-- 📚 Interés en tecnología y educación
-- 🤖 Experimentando con inteligencia artificial aplicada al desarrollo
+-  Desarrollo de software y aplicaciones web
+-  Diseño y administración de bases de datos
+-  Experiencia en diseño gráfico y UI/UX
+-  Interés en tecnología y educación
+-  Experimentando con inteligencia artificial aplicada al desarrollo
 
 ---
 
-## 🚀 Stack tecnológico
+## Stack tecnológico
 
 ### Lenguajes
 
@@ -51,7 +51,7 @@ bases de datos y experiencias digitales.
 
 ---
 
-## 🔥 Actividad
+## Actividad
 
 <p align="center">
 
